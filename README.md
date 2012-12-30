@@ -1,4 +1,4 @@
-datamodel_sample
+Datamodel::sample
 ================
 
 Sample of my data-modeling work. I have uploaded an Erwin file and data-work flow document. This might be useful for 
